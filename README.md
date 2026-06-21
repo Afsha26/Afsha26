@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Afsha Shaikh 👋
 
-<!--
-**Afsha26/Afsha26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at MCT RGIT, Mumbai
 
-Here are some ideas to get you started:
+💻 Software Developer | Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Machine Learning
+- Data Analytics
+
+🚀 Interested In:
+- Android App Development
+- AI & Machine Learning
+- Database Systems
+- Open Source Contributions
+
+📫 Reach Me:
+- LinkedIn: https://linkedin.com/in/shaikh-afsha
+- Email: afshaikh210426@gmail.com
