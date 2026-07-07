@@ -36,9 +36,11 @@ Generate professional resumes using Android and SQLite.
 Data analytics project to identify employee retention patterns.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afsha26&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsha26&layout=compact)
+![GitHub Stats](https://github-readme-stats-afsha29.vercel.app/api?username=Afsha26&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-afsha29.vercel.app/api/top-langs/?username=Afsha26&layout=compact&theme=tokyonight)
 
 ## Skills
 
