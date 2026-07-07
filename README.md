@@ -38,9 +38,9 @@ Data analytics project to identify employee retention patterns.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-afsha29.vercel.app/api?username=Afsha26&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-afsha29.vercel.app/api?username=Afsha26&show_icons=true&theme=tokyonight&v=1)
 
-![Top Languages](https://github-readme-stats-afsha29.vercel.app/api/top-langs/?username=Afsha26&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-afsha29.vercel.app/api/top-langs/?username=Afsha26&layout=compact&theme=tokyonight&v=1)
 
 ## Skills
 
